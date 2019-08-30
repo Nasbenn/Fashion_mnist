@@ -1,1 +1,1 @@
-# in this repo we have to jupyter netbooks of digit recognition and clothes recogniton using deep learning (keras)
+# in this repo we have tow jupyter notebooks of digit recognition and clothes recogniton using deep learning (keras)
